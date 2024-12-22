@@ -1,0 +1,2 @@
+# StudentPerformancePredictor
+ StudentPerformancePredictor A machine learning project that uses regression analysis to predict student performance based on factors such as hours studied, attendance percentage, health status, extracurricular participation, stress level, sleep duration, and internet availability.  This project demonstrates:  Data preprocessing and feature scaling. Development of a predictive model using Multiple Linear Regression. Model evaluation and fine-tuning for accurate results. Practical insights into factors influencing academic performance.
